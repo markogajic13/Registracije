@@ -1,0 +1,484 @@
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\appsettings.json
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.exe
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.deps.json
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.json
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.dev.json
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ref\RegistracijeApp.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.pdb
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.AssemblyReference.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfoInputs.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfo.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CoreCompileInputs.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.Manifest.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.xml
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\scopedcss\bundle\RegistracijeApp.styles.css
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CopyComplete
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\ref\RegistracijeApp.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.pdb
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.genruntimeconfig.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.dll
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.pdb
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.input.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.output.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorCoreGenerate.cache
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Ispis.cshtml.g.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.Views.pdb
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\NoviUnos.cshtml.g.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Azuriranje.cshtml.g.cs
+C:\Users\prof\source\repos\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\libman.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\appsettings.Development.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\appsettings.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\libman.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.exe
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.deps.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.dev.json
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ref\RegistracijeApp.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.pdb
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.pdb
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Humanizer.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.AssemblyReference.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfoInputs.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfo.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CoreCompileInputs.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.Manifest.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.xml
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\scopedcss\bundle\RegistracijeApp.styles.css
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.input.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.output.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorCoreGenerate.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Azuriranje.cshtml.g.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Ispis.cshtml.g.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\NoviUnos.cshtml.g.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cs
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.Views.pdb
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CopyComplete
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\ref\RegistracijeApp.dll
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.pdb
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.genruntimeconfig.cache
+G:\Google disk\Visual Studio 2019\Projects\PZI2122\RegistracijeApp\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Prijava\Login.cshtml.g.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\appsettings.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\libman.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.exe
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.deps.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.dev.json
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ref\RegistracijeApp.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.pdb
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.pdb
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfoInputs.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfo.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.Manifest.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.xml
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\scopedcss\bundle\RegistracijeApp.styles.css
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.input.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.output.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorCoreGenerate.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Azuriranje.cshtml.g.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Ispis.cshtml.g.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\NoviUnos.cshtml.g.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Prijava\Login.cshtml.g.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cache
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cs
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.Views.pdb
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CopyComplete
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\ref\RegistracijeApp.dll
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.pdb
+C:\Users\student\Documents\Programiranje za internet\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.genruntimeconfig.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\appsettings.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\libman.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.StaticWebAssets.xml
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.exe
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.deps.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.runtimeconfig.dev.json
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.pdb
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\RegistracijeApp.Views.pdb
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Humanizer.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.AssemblyReference.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfoInputs.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.AssemblyInfo.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CoreCompileInputs.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorAssemblyInfo.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\scopedcss\bundle\RegistracijeApp.styles.css
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.Manifest.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\RegistracijeApp.StaticWebAssets.Pack.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\msbuild.RegistracijeApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\msbuild.build.RegistracijeApp.props
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RegistracijeApp.props
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RegistracijeApp.props
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.input.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.TagHelpers.output.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorCoreGenerate.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Azuriranje.cshtml.g.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\Ispis.cshtml.g.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Glavni\NoviUnos.cshtml.g.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\Razor\Views\Prijava\Login.cshtml.g.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.RazorTargetAssemblyInfo.cs
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.Views.pdb
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.csproj.CopyComplete
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\refint\RegistracijeApp.dll
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.pdb
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\RegistracijeApp.genruntimeconfig.cache
+D:\Programiranje za internet\Priprema za kolokvij_2\K2\RegistracijeApp_Marko\RegistracijeApp\obj\Debug\net5.0\ref\RegistracijeApp.dll

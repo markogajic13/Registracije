@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Prijava u aplikaciju</title>
+    <link href="~/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/jquery/dist/jquery.js"></script>
+    <script src="~/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body style="margin-left:40%;margin-top:40px">
+    <div class="row justify-content-center">
+        <form action="~/Prijava/PrijavaKorisnika" method="post">
+            <table>
+                <tr>
+                    <td>
+                        Korisničko ime:
+                    </td>
+                    <td>
+                        <input id="TextKorisnickoIme" type="text" name="ime" class="form-control" required />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Lozinka:
+                    </td>
+                    <td>
+                        <input id="TextLozinka" type="password" name="lozinka" class="form-control" required />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center">
+                        <input id="SubmitPrijava" type="submit" value="Prijavi me" class="btn btn-dark" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

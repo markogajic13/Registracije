@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Novi unos</title>
+</head>
+<body>
+    @Html.ActionLink("Povratak na početnu stranicu","Ispis","Glavni")
+    <br/>
+    <br/>
+    @{ 
+        if (ViewBag.uspjesnoDodano == true)
+        {
+            <div>
+                Uspješno dodan novi zapis!
+            </div>
+            <br/>
+        }
+        else if(ViewBag.uspjesnoDodano == false)
+        {
+            <div>
+                Pogreška! Nije dodan novi zapis!
+            </div>
+            <br/>
+        }
+    }
+    <form action="~/Glavni/Dodaj" method="post">
+        <table>
+            <tr>
+                <td>
+                    Registarska oznaka:
+                </td>
+                <td>
+                    <input id="Text1" type="text" pattern="[A-ZČĆŽŠĐ]{2}\d{3,4}[A-ZČĆŽŠĐ]{1,2}" name="oznaka" required />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Datum isteka registracije:
+                </td>
+                <td>
+                    <input id="Text2" type="date" name="datum" required />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input id="Submit1" type="submit" value="Spremi podatke" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

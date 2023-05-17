@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ažuriranje</title>
+</head>
+<body>
+    @Html.ActionLink("Povratak na početnu stranicu", "Ispis", "Glavni")
+    <br />
+    <br />
+    @{ 
+        if (ViewBag.uspjenoIzmijenjeno == true)
+        {
+            <div>
+                Uspješno promijenjeni podaci!
+            </div>
+            <br/>
+        }
+        else if (ViewBag.uspjenoIzmijenjeno == false)
+        {
+            <div>
+                Pogreška! Nije uspjelo ažuriranje podataka!
+            </div>
+            <br/>
+        }
+    }
+    <form action="@{string putanja = "/Glavni/SpremiIzmjene/" + ViewBag.id; @putanja}" method="post">
+        <table>
+            <tr>
+                <td>
+                    Registarska oznaka:
+                </td>
+                <td>
+                    <input id="Text1" type="text" pattern="[A-ZČĆŽŠĐ]{2}\d{3,4}[A-ZČĆŽŠĐ]{1,2}" value="@ViewBag.podaciZaIzmjenu[0]" name="oznaka" required />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Datum isteka registracije:
+                </td>
+                <td>
+                    <input id="Text2" type="date" value="@(((DateTime)ViewBag.podaciZaIzmjenu[1]).ToString("yyyy-MM-dd"))" name="datum" required />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input id="Submit1" type="submit" value="Spremi podatke" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
